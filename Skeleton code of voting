@@ -1,0 +1,33 @@
+#coding-System from result import from candidate import
+
+class admin(object):
+
+version: author:
+
+ATTRIBUTES
+
+no of votes (private)
+
+voter id (private)
+
+voter_name (private)
+
+area (private)
+
+state (private)
+
+login (private)
+
+logout (private)
+
+def display(self):
+
+Breturn: Bauthor
+
+def update(self):
+
+author
+
+Pass
+
+I
