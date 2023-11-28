@@ -1,0 +1,25 @@
+# coding-System from database import * from user import *
+
+class admin (object):
+
+:version:
+
+:author:
+
+*** ATTRIBUTES
+
+user_details (private)
+
+books (private)
+
+membership_applications (private)
+
+maintanence (private)
+
+def update(self):
+
+@return :
+
+@author
+
+pass
