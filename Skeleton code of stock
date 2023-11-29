@@ -1,0 +1,49 @@
+# coding=System
+
+class retailer(object):
+
+  """
+   
+
+  :version:
+  :author:
+  """
+
+  """ ATTRIBUTES
+
+   
+
+  retailer_name  (private)
+
+   
+
+  retailer_address  (private)
+
+  """
+
+  def view_goods(self):
+    """
+     
+
+    @return  :
+    @author
+    """
+    pass
+
+  def view_customer(self):
+    """
+     
+
+    @return  :
+    @author
+    """
+    pass
+
+  def view_supplier(self):
+    """
+     
+
+    @return  :
+    @author
+    """
+    pass
