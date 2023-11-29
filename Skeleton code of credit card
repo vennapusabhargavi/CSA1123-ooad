@@ -1,0 +1,61 @@
+# coding=System
+
+class credit_card(object):
+
+  """
+   
+
+  :version:
+  :author:
+  """
+
+  """ ATTRIBUTES
+
+   
+
+  user_name  (private)
+
+   
+
+  account  (private)
+
+   
+
+  user_id  (private)
+
+   
+
+  type_of_card  (private)
+
+   
+
+  user_account  (private)
+
+  """
+
+  def update(self):
+    """
+     
+
+    @return  :
+    @author
+    """
+    pass
+
+  def add_user(self):
+    """
+     
+
+    @return  :
+    @author
+    """
+    pass
+
+  def add_account(self):
+    """
+     
+
+    @return  :
+    @author
+    """
+    pass
