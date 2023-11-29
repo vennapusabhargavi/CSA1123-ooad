@@ -1,0 +1,62 @@
+# coding=System
+from payment import *
+
+class ticket (payment):
+
+  """
+   
+
+  :version:
+  :author:
+  """
+
+  """ ATTRIBUTES
+
+   
+
+  booking  (private)
+
+   
+
+  source  (private)
+
+   
+
+  destination  (private)
+
+   
+
+  train_id  (private)
+
+   
+
+  train_name  (private)
+
+  """
+
+  def update(self):
+    """
+     
+
+    @return  :
+    @author
+    """
+    pass
+
+  def train_details(self):
+    """
+     
+
+    @return  :
+    @author
+    """
+    pass
+
+  def booking_details(self):
+    """
+     
+
+    @return  :
+    @author
+    """
+    pass
