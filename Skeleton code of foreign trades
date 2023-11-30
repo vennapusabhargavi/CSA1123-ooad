@@ -1,0 +1,65 @@
+# coding=System
+from administrator import *
+from account import *
+from item import *
+
+class traders(object):
+
+  """
+   
+
+  :version:
+  :author:
+  """
+
+  """ ATTRIBUTES
+
+   
+
+  use_name  (private)
+
+   
+
+  _password  (private)
+
+   
+
+  _account_no  (private)
+
+  """
+
+  def _login(self):
+    """
+     
+
+    @return  :
+    @author
+    """
+    pass
+
+  def _place_order(self):
+    """
+     
+
+    @return  :
+    @author
+    """
+    pass
+
+  def _pay(self):
+    """
+     
+
+    @return  :
+    @author
+    """
+    pass
+
+  def _logout(self):
+    """
+     
+
+    @return  :
+    @author
+    """
+    pass
