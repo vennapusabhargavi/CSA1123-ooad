@@ -1,0 +1,46 @@
+# coding=System
+from application import *
+from selection import *
+
+class intership(object):
+
+  """
+   
+
+  :version:
+  :author:
+  """
+
+  """ ATTRIBUTES
+
+   
+
+  _title  (private)
+
+   
+
+  _id  (private)
+
+   
+
+  _descriiption  (private)
+
+  """
+
+  def _start_date(self):
+    """
+     
+
+    @return  :
+    @author
+    """
+    pass
+
+  def _end_date(self):
+    """
+     
+
+    @return  :
+    @author
+    """
+    pass
