@@ -1,0 +1,42 @@
+# coding=System
+from payment import *
+from order import *
+from customer import *
+
+class delivery(object):
+
+  """
+   
+
+  :version:
+  :author:
+  """
+
+  """ ATTRIBUTES
+
+   
+
+  _id  (private)
+
+   
+
+  _date  (private)
+
+   
+
+  _name  (private)
+
+   
+
+  _address  (private)
+
+  """
+
+  def _update(self):
+    """
+     
+
+    @return  :
+    @author
+    """
+    pass
