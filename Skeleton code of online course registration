@@ -1,0 +1,36 @@
+coding=System
+from college import *
+
+class students(object):
+
+  """
+   
+
+  :version:
+  :author:
+  """
+
+  """ ATTRIBUTES
+
+   
+
+  _name  (private)
+
+   
+
+  _marks  (private)
+
+   
+
+  roll_no  (private)
+
+  """
+
+  def _stduy(self):
+    """
+     
+
+    @return  :
+    @author
+    """
+    pass
